@@ -5,9 +5,9 @@ Welcome to the official GitHub organization of **Ailixir**. We specialize in cut
 ---
 
 ### 🌐 Official Links & Resources
-* **Official Website:** [https://anno.ailixir.com.tw/](https://anno.ailixir.com.tw/)[cite: 1]
-* **YouTube Channel (Tutorials & Demos):** [@ailixirailixir](https://www.youtube.com/@ailixirailixir)[cite: 1]
-* **Social Updates:** [@ailixir.tw (Threads)](https://www.threads.com/@ailixir.tw)[cite: 1]
+* **Official Website:** [https://anno.ailixir.com.tw/](https://anno.ailixir.com.tw/)
+* **YouTube Channel (Tutorials & Demos):** [@ailixirailixir](https://www.youtube.com/@ailixirailixir)
+* **Social Updates:** [@ailixir.tw (Threads)](https://www.threads.com/@ailixir.tw)
 
 ---
 
