@@ -5,9 +5,9 @@ Welcome to the official GitHub organization of Ailixir[cite: 1]. We specialize i
 ---
 
 ### 🌐 Official Links & Resources
-* **Official Website:** [https://anno.ailixir.com.tw/](https://anno.ailixir.com.tw/)[cite: 1]
-* **YouTube Channel (Tutorials & Demos):** [@ailixirailixir](https://www.youtube.com/@ailixirailixir)[cite: 1]
-* **Social Updates:** [@ailixir.tw (Threads)](https://www.threads.com/@ailixir.tw)[cite: 1]
+* **Official Website:** [https://anno.ailixir.com.tw/](https://anno.ailixir.com.tw/)
+* **YouTube Channel (Tutorials & Demos):** [@ailixirailixir](https://www.youtube.com/@ailixirailixir)
+* **Social Updates:** [@ailixir.tw (Threads)](https://www.threads.com/@ailixir.tw)
 
 ---
 
@@ -42,5 +42,5 @@ If your organization/enterprise wishes to integrate Ailixir into proprietary sys
 
 ### 💼 Contact Us for Commercial Licensing & Consulting:
 * **Company:** Ailixir Technology Co., Ltd. (胡斯科技有限公司)
-* **Official Email:** [aailixir@gmail.com](mailto:aailixir@gmail.com)[cite: 1]
-* **Official Website:** [https://anno.ailixir.com.tw/](https://anno.ailixir.com.tw/)[cite: 1]
+* **Official Email:** [aailixir@gmail.com](mailto:aailixir@gmail.com)
+* **Official Website:** [https://anno.ailixir.com.tw/](https://anno.ailixir.com.tw/)
