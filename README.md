@@ -1,4 +1,4 @@
-# Hi there 👋, We are Ailixir (胡斯科技)
+# Hi there 👋, We are Ailixir Co., LTD (胡斯科技)
 
 Welcome to the official GitHub organization of **Ailixir**. We specialize in cutting-edge private cloud edge AI platforms, multi-model vision solutions, and automated tools designed for modern enterprises and developers.
 
